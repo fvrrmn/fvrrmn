@@ -13,7 +13,7 @@
 </div>
 
 - Une vitrine de mes compétences en Informatique, Systèmes et Réseaux
-- Scripts et Outils pratiques pour automatiser des tâches répététives
+- Scripts et Outils pratiques pour automatiser des tâches répétitives
 - Programmation Python et Web
 
 <div align="center">
