@@ -24,7 +24,7 @@
 
 🌱 *Flavien, apprenti autodidacte, passionné par les Systèmes, Réseaux et la Cybersécurité.* 
 
-Je maîtrise les bases fondamentales en Informatique et Réseaux :
+### Je maîtrise les bases fondamentales en Informatique et Réseaux :
 
 - Systèmes : `Windows 10`, `Windows 11`, `Windows Server`, `Linux`
 - Réseaux : `TCP`, `IP`, `UDP`, `DHCP`, `DNS`, `HTTP/HTTPS`, `FTP/SFTP`, `ARP`, `NAT`, `LAN`, `VLAN`, `WAN`
@@ -33,7 +33,19 @@ Je maîtrise les bases fondamentales en Informatique et Réseaux :
 - Environnements : `VirtualBox`, `Visual Studio Code`
 - Support & Assistance : `AnyDesk`, `TeamViewer`
 
-🚀 À long terme, l'objectif est de me spécialiser en Cybersécurité.
+---
+
+🚀 *Flavien, futur spécialiste en Cybersécurité.*
+
+### J'apprends :
+
+- Sécurité des Systèmes
+- Sécurité des Réseaux
+- Sécurité des Applications Web
+- Cloud
+- Cryptographie
+
+
 
 <div align="center">
 
