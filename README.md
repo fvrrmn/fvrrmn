@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello World ! Bienvenue sur mon GitHub !
+# 👋 Hello World !
 
 ![Description du GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NvMDIzaDkzb3l3a3A3MnI2aXRxbWlqdG9ueDc0Z2Nkcncyd3AwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
