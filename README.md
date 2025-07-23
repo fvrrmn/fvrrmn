@@ -1,28 +1,34 @@
 <div align="center">
 
-# 👋 Hello World !
+# Hello World ! I'm Flavien 🇫🇷
+
+🌱 *Apprenti autodidacte, passionné par les Systèmes, Réseaux et la Cybersécurité.*
+
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=fvrrmn&color=blue&style=for-the-badge)
+
 
 ![Description du GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NvMDIzaDkzb3l3a3A3MnI2aXRxbWlqdG9ueDc0Z2Nkcncyd3AwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+
+
 
 </div>
 
 <div align="center">
 
-## 📂 Qu'allez-vous découvrir ici ?
+## 📂 Contenu proposé
 
 </div>
 
-- Une vitrine de mes compétences en Informatique, Systèmes et Réseaux
+- Vitrine de mes compétences en Informatique, Systèmes et Réseaux
 - Scripts et Outils pratiques pour automatiser des tâches répétitives
 - Programmation Python et Web
 
 <div align="center">
 
-## 🔎 Qui suis-Je ?
+## 🔎 Mes compétences acquises
 
 </div>
-
-🌱 *Flavien, apprenti autodidacte, passionné par les Systèmes, Réseaux et la Cybersécurité.* 
 
 ### Je maîtrise les bases fondamentales en Informatique et Réseaux :
 
@@ -33,7 +39,21 @@
 - Environnements : `VirtualBox`, `Visual Studio Code`
 - Support & Assistance : `AnyDesk`, `TeamViewer`
 
+
+
+**Réalisations associées :**
+
+🧠 [winserver2019-lab](https://github.com/fvrrmn/winserver2019-lab) *- Simulation de l'infrastructure réseau d'une entreprise fictive, déployée sous Windows Server 2019 dans un environnement virtualisé*
+
+🎲 [cli-casino-game](https://github.com/fvrrmn/cli-casino-game) *- Jeux de casino en ligne de commande, développés sous Python 3*
+
 ---
+
+<div align="center">
+
+## 📖 Mes compétences en développement
+
+</div>
 
 🚀 *Flavien, futur spécialiste en Cybersécurité.*
 
@@ -68,8 +88,6 @@
   <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" width="40" style="border-radius:50%; margin-right:8px;" />
   <img alt="Python" src="https://skillicons.dev/icons?i=python" width="40" style="border-radius:50%; margin-right:8px;" />
 
+Merci de votre visite !
+
 </div>
-
----
-
-Merci de votre visite ! N’hésitez pas à me suivre et à laisser un avis !
